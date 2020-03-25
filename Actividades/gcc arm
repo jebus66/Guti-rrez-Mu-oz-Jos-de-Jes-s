@@ -1,0 +1,18 @@
+/* Nombre del programa paco.c                                                   
+*                                                                               
+*                                       
+*/
+#include <stdio.h>
+int s;
+int main(void)
+{
+  for(int i=1; i<=10; i++)
+    {
+      s=s+2;
+      printf("%i\n",s);
+    }
+return 0;
+}
+
+link del Video:
+https://youtu.be/IJh7VZVZc0g
