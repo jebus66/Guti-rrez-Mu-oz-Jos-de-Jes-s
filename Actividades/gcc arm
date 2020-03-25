@@ -1,7 +1,4 @@
-/* Nombre del programa paco.c                                                   
-*                                                                               
-*                                       
-*/
+/* Nombre del programa paco.c */
 #include <stdio.h>
 int s;
 int main(void)
